@@ -1,0 +1,232 @@
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: 5px 5px 5px -5px rgba(34, 60, 80, 0.2) inset;
+  background-color: #cccccc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #888888;
+}
+
+
+.links {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 3%;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+  background: url(bg.jpg);
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.srclimg {
+    width: 80%;
+    border-radius: 100%;
+    margin-left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-top: 50%;
+}
+
+.namesquare {
+    width: 20%;
+    height: 450px;
+    border: 2px dashed #000000;
+    margin-left: 75%;
+    margin-top: 20px;
+    background: repeating-linear-gradient(50deg, #aaaaaa 0, #aaaaaa 1px, transparent 1px, transparent 8px);
+}
+
+.about-img {
+    margin-left: 2%;
+    margin-top: 1.5%;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+}
+
+.skills-content-content {
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
+
+.skills-img {
+    margin-left: 5%;
+    margin-top: 2.5%;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+}
+
+.skills-title {
+    margin-left: 37%;
+    margin-top: -18%;
+    color: #000000;
+    font-size: 30px;
+    font-family: arial;
+}
+
+.skills {
+    width: 20%;
+    height: 450px;
+    border: 2px dashed #000000;
+    margin-left: 5%;
+    margin-top: 20px;
+    background: repeating-linear-gradient(50deg, #aaaaaa 0, #aaaaaa 1px, transparent 1px, transparent 8px);
+
+}
+
+.about-title {
+    margin-left: 2%;
+    margin-top: 2%;
+    color: #000000;
+    font-size: 30px;
+    font-family: arial;
+
+}
+
+.about-content {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    color: #000000;
+    font-size: 19px;
+    font-family: arial;
+
+}
+
+
+.about {
+    width: 65%;
+    height: 450px;
+    border: 2px dashed #000000;
+    margin-left: 5%;
+    margin-top: -450px;
+
+}
+
+.achievements {
+    width: 65%;
+    height: 450px;
+    border: 2px dashed #000000;
+    margin-left: 30%;
+    margin-top: -450px;
+
+}
+
+.mydata {
+    width: 90%;
+    margin-left: 5%;
+    margin-top: -30%;
+    font-size: 20px;
+    font-color: #000000;
+    border-top: 2px dashed #000000;
+}
+
+
+.hdrimg {
+    width: 99%;
+    height: 200px;
+    margin-left: 0.5%;
+    margin-top: 8px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.ftrimg {
+    width: 99%;
+    height: 20px;
+    margin-left: 0.5%;
+    margin-bottom: 8px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.title {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 40px;
+    font-family: arial;
+}
+
+.title2 {
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    color: #ffffff;
+    font-size: 16px;
+    font-family: arial;
+}
+
+.skill-name {
+    margin-top: 7%;
+    color: #000000;
+    font-size: 12px;
+    font-family: arial;
+
+}
+
+progress {
+  border: 0;
+  height: 3px;
+  border-radius: 1px;
+}
+
+::-webkit-progress-bar {
+  background-color: #aaaaaa;
+  height: 3px;
+  width: 150%
+}
+
+::-webkit-progress-value {
+  background-color: #444444;
+  height: -5px;
+  width: 150%
+}
+
+.achievements-img {
+
+    margin-left: 2%;
+    margin-top: 1.5%;
+    border-bottom: 2px solid #000000;
+    padding-bottom: 5px;
+}
+
+.achievements-title {
+    margin-left: 2%;
+    margin-top: 2%;
+    color: #000000;
+    font-size: 30px;
+    font-family: arial;
+
+}
+
+.achievements-content {
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 2%;
+    color: #000000;
+    font-size: 19px;
+    font-family: arial;
+
+}
+
